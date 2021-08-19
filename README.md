@@ -1,8 +1,8 @@
 ## Olá! Eu sou o Guilherme Vallejo.
  <div>
-  <a href="https://github.com/GuiihAnjos">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GuiihAnjos&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuiihAnjos&layout=compact&langs_count=7&theme=dracula"/>
+  <a href="https://github.com/GuiVallejo">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GuiVallejo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuiVallejo&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -21,6 +21,6 @@
   <a href = "mailto:vallejoguilherme1@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/guilherme-vallejo-dos-anjos-8616001ba/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/GuiihAnjos/GuiihAnjos/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/GuiVallejo/GuiVallejo/blob/output/github-contribution-grid-snake.svg)
  
 </div>
